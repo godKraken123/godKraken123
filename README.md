@@ -27,9 +27,9 @@ Building secure decentralized applications and auditing smart contracts. Focused
 - [ ] Bug bounty rewards (in progress)
 
 ## 📫 Connect
-- Twitter: [@your_handle](https://x.com/your_handle)
-- Email: your.email@gmail.com
-- Telegram: @your_username
+- Twitter: https://x.com/qmzpalraf
+- Email: usqmzpalraf@gmail.com
+- Telegram: @godkraken123
 
 ---
 
