@@ -21,9 +21,8 @@ Building secure decentralized applications and auditing smart contracts. Focused
 **Tools:** Git, Etherscan, Tenderly, Slither  
 
 ## 🏆 Achievements
-- [X] CTF challenges solved (Ethernaut, Damn Vulnerable DeFi)
-- [X] Full-stack dApps deployed
-- [X] Smart contract audits completed
+- [ ] CTF challenges solved (Ethernaut, Damn Vulnerable DeFi) (in progress)
+- [X] Full-stack dApps deployed 
 - [ ] Bug bounty rewards (in progress)
 
 ## 📫 Connect
