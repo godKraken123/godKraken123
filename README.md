@@ -23,7 +23,7 @@ Building secure decentralized applications and auditing smart contracts. Focused
 ## 🏆 Achievements
 - [X] CTF challenges solved: Damn Vulnerable DeFi
 - [X] CTF challenges solved: Ethernaut (0x8b056232d61dbB8aAdf908cacF40DbF01f18F6fe)
-- [X] Full-stack dApps deployed (Coming Soon...)
+- [] My first useful project deployed (Coming Soon...)
 - [ ] Bug bounty rewards (in progress)
 
 ## 📫 Connect
