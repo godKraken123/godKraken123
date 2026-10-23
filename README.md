@@ -7,7 +7,7 @@ Building secure decentralized applications and auditing smart contracts. Focused
 ## 🔭 Current Focus
 - Smart contract auditing (Foundry, Slither, Mythril)
 - Building full-stack dApps (Solidity + React + Tailwind)
-- CTF challenges and security research
+- zk proofs
 - Contributing to open-source Web3 projects
 
 ## 🌱 Learning Path
